@@ -1,0 +1,5 @@
+{
+  "name": "FlipaMaker Studio",
+  "description": "Una potente herramienta de animación web estilo Flipagram/Flipaclip. Crea animaciones cuadro por cuadro, importa imágenes, edita la velocidad y exporta tus creaciones como video.",
+  "requestFramePermissions": []
+}
